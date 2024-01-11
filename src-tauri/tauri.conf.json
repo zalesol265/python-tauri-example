@@ -22,7 +22,7 @@
           {
             "name": "bin/python/test",
             "sidecar": true,
-            "args": ["arg1", "arg2", "arg3"]
+            "args": true
           }
         ]
       }
@@ -65,7 +65,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "tauri-rust-py",
+        "title": "py-tauri-sample",
         "width": 800
       }
     ]
